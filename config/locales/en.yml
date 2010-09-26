@@ -1,0 +1,11 @@
+# English strings go here for Rails i18n
+en:
+  label_gantt_by_user: "Gantt By User"
+  label_user: "User: "
+  title_gantt_by_user: "Gantt by User"
+  unassigned_user: "Unassigned"
+  label_show_undated: "Show unscheduled tasks"
+  
+
+
+  

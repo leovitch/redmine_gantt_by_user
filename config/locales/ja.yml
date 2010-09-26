@@ -1,0 +1,8 @@
+# Japanese strings go here for Rails i18n
+ja:
+  label_gantt_by_user: "ユーザーによってガント"
+  label_user: "ユーザー名: "
+  title_gantt_by_user: "ユーザーによってガント"
+  unassigned_user: "アサインされていない"
+  label_show_undated: "完了日がないタスクを表示"
+  

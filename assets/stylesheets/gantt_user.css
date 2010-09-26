@@ -1,0 +1,4 @@
+a.vote { font-size: 120%; }
+a.vote.yes { color: green; }
+a.vote.no  { color: red; }
+

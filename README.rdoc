@@ -1,0 +1,7 @@
+= gantt_by_user
+
+This plugin provides an alternate GANTT chart which is
+sorted by user.  A new "User GANTT" menu will be
+added to the project menu to access it.
+
+
